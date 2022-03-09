@@ -6,8 +6,15 @@ Java Console Game. MJT Project @ FMI
 [DOCUMENTATION LINK](https://github.com/andy489/Battleships-Online/blob/main/Documentation/Battleships%20Online%20Game.pdf)
   
 </strong>
- 
-Java console application game.
+
+## Testing
+
+<div align="center">
+  
+![](https://img.shields.io/badge/Code%20Coverage-Class%2089%25%2C%20Method%2090%25%2C%20Line%2084%25-brightgreen) &nbsp; &nbsp;
+![](https://img.shields.io/badge/Tests-183%20passed%2C%200%20failed-brightgreen)
+
+</div>
 
 ## Functionalities
 
