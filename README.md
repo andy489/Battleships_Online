@@ -1,9 +1,11 @@
 # Battleships-Online
 Java Console Game. MJT Project @ FMI
 
+- [PROJECT DESCRIPTION](https://github.com/andy489/Modern_Java_Technologies/blob/main/course-projects/battleships.md)
+
 <strong>
   
-[DOCUMENTATION LINK](https://github.com/andy489/Battleships-Online/blob/main/Documentation/Battleships%20Online%20Game.pdf)
+- [DOCUMENTATION LINK](https://github.com/andy489/Battleships-Online/blob/main/Documentation/Battleships%20Online%20Game.pdf)
   
 </strong>
 
