@@ -210,8 +210,8 @@ disconnect
 
 ### Game Status
 
-* pending
-* in progress
+* PENDING
+* IN PROGRESS
 
 ## Structure
 
