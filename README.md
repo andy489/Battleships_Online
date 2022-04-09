@@ -5,7 +5,7 @@ Java Console Game. MJT Project @ FMI
 
 <strong>
   
-- [DOCUMENTATION LINK](https://github.com/andy489/Battleships-Online/blob/main/Documentation/Battleships%20Online%20Game.pdf)
+- [DOCUMENTATION LINK](https://github.com/andy489/Battleships_Online/blob/main/Documentation/BSO%20EN.pdf)
   
 </strong>
 
